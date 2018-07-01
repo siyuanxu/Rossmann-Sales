@@ -1,0 +1,9 @@
+[1] https://en.wikipedia.org/wiki/Random_forest
+[2] http://www.cnblogs.com/pinard/p/6160412.html
+[3] http://www.cnblogs.com/pinard/p/6160412.html
+[4] http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+[5] 小巧玲珑：机器学习届快刀XGBoost的介绍和使用 https://zhuanlan.zhihu.com/p/29432901
+[6] http://xgboost.apachecn.org/cn/latest/parameter.html
+[7] xgboost demo https://github.com/apachecn/xgboost-doc-zh/tree/v0.60/demo/en
+[8] https://en.wikipedia.org/wiki/Tukey%27s_range_test
+[9] https://zh.wikipedia.org/wiki/%E7%AE%B1%E5%BD%A2%E5%9C%96
